@@ -1,0 +1,28 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "minecraftmod",
+    "modName": "minecraft-mod",
+    "version": "1.0.0",
+    "author": "Krosis Anumidaak, SanyaKisly (Slave_Army)",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.minecraftmod"
+  },
+  "mcreatorVersion": 202400452410
+}
